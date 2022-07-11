@@ -4,7 +4,7 @@ Copyright © 1996–1970 The PostgreSQL 글로벌 개발 그룹
 
 ## [법적 통지](https://www.postgresql.org/docs/15/legalnotice.html)
 ## 목차
-### 서문
+### [서문](./서문)
 1. [PostgreSQL이란? (작업 중)](./서문/PostgreSQL이란.md)
 2. PostgreSQL의 간략한 역사
 3. 규약
