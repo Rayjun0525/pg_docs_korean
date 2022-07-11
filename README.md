@@ -10,9 +10,10 @@ PostgreSQL을 사용하는 누구에게나 열려있습니다.
 각각의 섹션별로 디렉토리를 생성한 후, 하위에 번역파일을 작성해 주시면 됩니다.
 마크다운과 HTML을 기본으로 하지만, txt등의 파일형식도 사용 가능합니다.
 
-# PostgreSQL Master 네이버 카페
+## PostgreSQL Master 네이버 카페
 
 해당 프로젝트는 [PostgreSQL Master](https://cafe.naver.com/psqlmaster) 네이버 카페에서 주관합니다.
+프로젝트에 대한 문의사항이나 제안, 소통 등은 Discussions과 PostgreSQL Master 카페를 통해 진행해 주시면 감사하겠습니다.
 
 # Legal Notice
 
