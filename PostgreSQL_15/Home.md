@@ -1,8 +1,8 @@
-# [PostgreSQL 13.7 설명서](https://www.postgresql.org/docs/13/index.html)
+# [PostgreSQL 13.7 설명서](https://www.postgresql.org/docs/15/index.html)
 ## 포스트그레SQL 글로벌 개발 그룹
 Copyright © 1996–1970 The PostgreSQL 글로벌 개발 그룹
 
-## [법적 통지](https://www.postgresql.org/docs/13/legalnotice.html)
+## [법적 통지](https://www.postgresql.org/docs/15/legalnotice.html)
 ## 목차
 ### 서문
 1. [PostgreSQL이란? (작업 중)](./서문/PostgreSQL이란.md)
