@@ -2,6 +2,7 @@
 PostgreSQL 공식문서 한국어 번역 프로젝트
 
 PostgreSQL을 사용하는 누구에게나 열려있습니다.
+
 번역본에 대한 저작권은 원본의 저작권을 그대로 따라갑니다.
 
 # Legal Notice
