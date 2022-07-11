@@ -15,7 +15,7 @@ PostgreSQL을 사용하는 누구에게나 열려있습니다.<br>
 해당 프로젝트는 [PostgreSQL Master](https://cafe.naver.com/psqlmaster) 네이버 카페에서 주관합니다.<br>
 프로젝트에 대한 문의사항이나 제안, 소통 등은 Discussions과 PostgreSQL Master 카페를 통해 진행해 주시면 감사하겠습니다.<br>
 
-# Legal Notice
+## Legal Notice
 
 PostgreSQL is Copyright © 1996–2022 by the PostgreSQL Global Development Group.
 Postgres95 is Copyright © 1994–5 by the Regents of the University of California.
