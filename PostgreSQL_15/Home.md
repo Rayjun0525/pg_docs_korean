@@ -5,8 +5,8 @@ Copyright © 1996–1970 The PostgreSQL 글로벌 개발 그룹
 ## [법적 통지](https://www.postgresql.org/docs/15/legalnotice.html)
 ## 목차
 ### [서문](./서문)
-1. [PostgreSQL이란? (작업 중)](./서문/PostgreSQL이란.md)
-2. PostgreSQL의 간략한 역사
+1. [PostgreSQL이란?](./서문/PostgreSQL이란.md)
+2. [PostgreSQL의 간략한 역사](./서문/PostgreSQL의%20간략한%20역사.md)
 3. 규약
 4. 추가 정보
 5. 버그 보고 지침
@@ -92,12 +92,12 @@ III. 포스트그레SQL Server 응용 프로그램<br />
 70. 시스템 카탈로그 선언 및 초기 내용
 71. 계획자가 통계를 사용하는 방법
 72. 백업 매니페스트 형식
-### VII. 부록
+### [VII. 부록](부록)
 A. PostgreSQL 오류 코드<br />
 B. 날짜/시간 지원<br />
 C. SQL 키워드<br />
 D. SQL 준수<br />
-E. 릴리스 노트<br />
+[E. 릴리스 노트](./부록/E.릴리즈노트/E.릴리즈노트.md)<br />
 F. 추가 공급 모듈<br />
 G. 추가 제공 프로그램<br />
 H. 외부 프로젝트<br />
