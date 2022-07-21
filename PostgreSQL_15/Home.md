@@ -1,4 +1,4 @@
-# [PostgreSQL 13.7 설명서](https://www.postgresql.org/docs/15/index.html)
+# [PostgreSQL 15 설명서](https://www.postgresql.org/docs/15/index.html)
 ## 포스트그레SQL 글로벌 개발 그룹
 Copyright © 1996–1970 The PostgreSQL 글로벌 개발 그룹
 
