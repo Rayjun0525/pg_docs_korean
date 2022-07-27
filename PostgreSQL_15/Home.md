@@ -5,11 +5,11 @@ Copyright © 1996–1970 The PostgreSQL 글로벌 개발 그룹
 ## [법적 통지](https://www.postgresql.org/docs/15/legalnotice.html)
 ## 목차
 ### [서문](./서문)
-1. [PostgreSQL이란?](./서문/PostgreSQL이란.md)
-2. [PostgreSQL의 간략한 역사](./서문/PostgreSQL의%20간략한%20역사.md)
-3. 규약
-4. 추가 정보
-5. 버그 보고 지침
+1. [PostgreSQL이란?](./서문/1.%20PostgreSQL이란.md)
+2. [PostgreSQL의 간략한 역사](./서문/2.%20PostgreSQL의%20간략한%20역사.md)
+3. [협약](서문/3.%20협약.md)
+4. [추가 정보](서문/4.%20추가정보.md)
+5. [버그 보고 지침](서문/5.%20버그%20정보%20지침.md)
 ### I. 튜토리얼
 1. 시작하기
 2. SQL 언어
